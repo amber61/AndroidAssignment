@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Apr 15 18:37:11 EDT 2017
+2.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_sprite_details.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\prefs.xml
+4.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_84ac43e63b521fcd4089a4694c25dc4112fd8f84\\classes.dex
+7.set=DEX
+count=11
+0.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc2f6a514dca24a76512b0bfd9fe909ccb57aae0\\classes.dex
+5.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu.xml
+4.set=ANDROID_RESOURCE
+6.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_launcher.png
+9.set=ANDROID_RESOURCE
+9.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_sprites.xml
+10.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_84ac43e63b521fcd4089a4694c25dc4112fd8f84
+2.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc2f6a514dca24a76512b0bfd9fe909ccb57aae0
+8.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\pref_headers.xml
+3.set=ANDROID_RESOURCE
+1.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\sprite_row.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

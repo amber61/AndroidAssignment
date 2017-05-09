@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+    Copyright © 2011-2013 mysamplecode.com, All rights reserved.
+    This source code is provided to students of CST2335 for educational purposes only.
+    -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tgk.cursoradapter" android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="15" />
+
+    <application android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" android:theme="@android:style/Theme.Light">
+        <activity android:name=".AndroidListViewCursorAdaptorActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

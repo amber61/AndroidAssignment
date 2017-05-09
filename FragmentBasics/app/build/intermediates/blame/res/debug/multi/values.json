@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "G:\\AndroidWorkspace\\FragmentBasics\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "G:\\AndroidWorkspace\\FragmentBasics\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 52,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "G:\\AndroidWorkspace\\FragmentBasics\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 40,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "G:\\AndroidWorkspace\\FragmentBasics\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 741,
+                        "endColumn": 40,
+                        "endOffset": 777
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright © 2011-2013 mysamplecode.com, All rights reserved.
+This source code is provided to students of CST2335 for educational purposes only.
+-->
+<resources>
+
+    <string name="app_name">ListView CusrsorAdapter</string>
+ <string name="some_text">
+     Some North American Countries!
+ </string>
+ <string name="some_hint">
+  Type here to filter&#8230;
+ </string>
+
+</resources>

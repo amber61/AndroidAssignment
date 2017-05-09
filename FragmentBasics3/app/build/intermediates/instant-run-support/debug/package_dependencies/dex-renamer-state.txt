@@ -1,0 +1,4 @@
+#Tue Mar 14 22:35:56 EDT 2017
+base.0=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_c93aa9af566593f6a4694c32dfc1682658e25ca7
+renamed.0=classes.dex
+file.0=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_c93aa9af566593f6a4694c32dfc1682658e25ca7\\classes.dex

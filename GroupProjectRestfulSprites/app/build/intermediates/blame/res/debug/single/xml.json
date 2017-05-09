@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs.xml",
+        "source": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\src\\main\\res\\xml\\prefs.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    }
+]

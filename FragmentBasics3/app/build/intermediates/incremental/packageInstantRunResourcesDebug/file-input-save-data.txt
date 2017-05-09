@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Mar 14 22:35:24 EDT 2017
+2.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\country_info.xml
+5.set=ANDROID_RESOURCE
+3.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\news_articles.xml
+2.set=ANDROID_RESOURCE
+4.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\news_articles.xml
+5.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\article_view.xml
+3.set=ANDROID_RESOURCE
+1.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

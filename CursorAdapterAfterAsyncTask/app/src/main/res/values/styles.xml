@@ -1,0 +1,10 @@
+<resources>
+    <!-- Copyright © 2011-2013 mysamplecode.com, All rights reserved.
+    This source code is provided to students of CST2335 for educational purposes only.
+    -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

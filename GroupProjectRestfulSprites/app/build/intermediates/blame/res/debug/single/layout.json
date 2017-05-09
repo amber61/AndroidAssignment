@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sprites.xml",
+        "source": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\src\\main\\res\\layout\\activity_sprites.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sprite_row.xml",
+        "source": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\src\\main\\res\\layout\\sprite_row.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sprite_details.xml",
+        "source": "G:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\src\\main\\res\\layout\\activity_sprite_details.xml"
+    }
+]

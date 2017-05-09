@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Mar 14 22:36:01 EDT 2017
+2.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c2f75fba9e5fb2d53ce525f6e750d4364a5c6066\\classes.dex
+5.set=DEX
+3.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\country_info.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\news_articles.xml
+5.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c2f75fba9e5fb2d53ce525f6e750d4364a5c6066
+8.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\news_articles.xml
+4.set=ANDROID_RESOURCE
+6.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bb44b2a18dccb984c503c7c4d1e35ef7455553dd\\classes.dex
+1.set=DEX
+7.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bb44b2a18dccb984c503c7c4d1e35ef7455553dd
+4.file=G\:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\article_view.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

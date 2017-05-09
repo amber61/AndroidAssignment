@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_button">AddNew</string>
+    <string name="app_name">Fragment Basics</string>
+    <string name="ok_button">OK</string>
+</resources>

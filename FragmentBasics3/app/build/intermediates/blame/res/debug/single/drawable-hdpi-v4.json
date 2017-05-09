@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\tgk\\Downloads\\FragmentBasics3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\tgk\\Downloads\\FragmentBasics3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\FragmentBasics3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\AndroidWorkspace\\FragmentBasics3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ZHE\\Desktop\\FragmentBasics3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ZHE\\Desktop\\FragmentBasics3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

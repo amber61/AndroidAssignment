@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\FragmentBasics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_articles.xml",
+        "source": "G:\\AndroidWorkspace\\FragmentBasics\\app\\src\\main\\res\\layout\\news_articles.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\FragmentBasics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article_view.xml",
+        "source": "G:\\AndroidWorkspace\\FragmentBasics\\app\\src\\main\\res\\layout\\article_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\FragmentBasics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ok_view.xml",
+        "source": "G:\\AndroidWorkspace\\FragmentBasics\\app\\src\\main\\res\\layout\\ok_view.xml"
+    }
+]

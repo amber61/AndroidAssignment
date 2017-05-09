@@ -1,0 +1,7 @@
+#Sat Apr 15 18:37:11 EDT 2017
+base.0=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc2f6a514dca24a76512b0bfd9fe909ccb57aae0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_84ac43e63b521fcd4089a4694c25dc4112fd8f84\\classes.dex
+base.1=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_84ac43e63b521fcd4089a4694c25dc4112fd8f84
+file.0=G\:\\AndroidWorkspace\\GroupProjectRestfulSprites\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc2f6a514dca24a76512b0bfd9fe909ccb57aae0\\classes.dex
