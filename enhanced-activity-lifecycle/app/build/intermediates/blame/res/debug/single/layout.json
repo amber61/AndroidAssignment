@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_a.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\src\\main\\res\\layout\\activity_a.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_a.xml",
+        "source": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_a.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_c.xml",
+        "source": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\layout\\activity_b.xml"
+    }
+]

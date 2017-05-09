@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\AndroidWorkspace\\enhanced activity-lifecycle\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidWorkspace\\activity-lifecycle\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
